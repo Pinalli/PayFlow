@@ -69,6 +69,4 @@
 
 ---
 
-   <p align="center">
-      <img alt="NLW" title="PayFlow" src=".github/nlw.png" />
-   </p>
+
