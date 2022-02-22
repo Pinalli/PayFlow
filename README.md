@@ -28,9 +28,6 @@
 
 <h2 align="center">Layout 🎨</h2>
 
-   <p align="center">
-      <img alt="PayFlow" title="PayFlow" src=".github/capa.png" />
-   </p>
 
    <p align="center">
       O Layout foi desenvolvido por <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, e você pode acessá-lo no Figma:
